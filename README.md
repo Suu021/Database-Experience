@@ -26,3 +26,6 @@
  - Cada OS tem: data de emissão, valor, status e uma data de conclusão dos trabalhos;
  - Uma OS podem ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
  - Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS
+
+## Desafio 3 - Projeto físico do E-commerce
+Fazer a modelagem do projeto lógico de banco de dados para o cenário de e-commerce, fazer o Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Por fim, crie queries SQL.
