@@ -189,11 +189,11 @@ CREATE TABLE IF NOT EXISTS `E-commerce`.`Produto_vendedor-(terceiro)` (
 
 -- Clientes
 insert into Cliente (idCliente, nome, sobrenome, documento, nro_documento, endereço) values (1, 'Elysee', 'Waud', 'CNPJ', '65.845.354/0001-11', '819 Sunbrook Lane'),
-																							(2, 'Magnum', 'Skamell', 'CPF', '987.215.962-52', '08393 Kenwood Street'),
-																							(3, 'Jana', 'Comusso', 'CPF', '514.875.985-47', '60089 Northridge Circle'),
-																							(4, 'Hermie', 'Veelers', 'CPF', '651.845.321-58', '6 Jackson Alley'),
-																							(5, 'Tiffy', 'Alekseicik', 'CPF', '654.357.984-63', '3 Banding Lane'),
-																							(6, 'Phillip', 'Simkin', 'CPF', '653.874.512-56', '75 Northport Crossing');
+											    (2, 'Magnum', 'Skamell', 'CPF', '987.215.962-52', '08393 Kenwood Street'),
+											    (3, 'Jana', 'Comusso', 'CPF', '514.875.985-47', '60089 Northridge Circle'),
+											    (4, 'Hermie', 'Veelers', 'CPF', '651.845.321-58', '6 Jackson Alley'),
+											    (5, 'Tiffy', 'Alekseicik', 'CPF', '654.357.984-63', '3 Banding Lane'),
+											    (6, 'Phillip', 'Simkin', 'CPF', '653.874.512-56', '75 Northport Crossing');
 
 
 -- Cartões
