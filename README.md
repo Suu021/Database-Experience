@@ -29,3 +29,6 @@
 
 ## Desafio 3 - Projeto físico do E-commerce
 Fazer a modelagem do projeto lógico de banco de dados para o cenário de e-commerce, fazer o Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Por fim, crie queries SQL.
+
+## Desafio 4 - Projeto físico da Oficina
+Fazer a modelagem do projeto lógico de banco de dados para o cenário de oficina mecânica, fazer o Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Por fim, crie queries SQL.
