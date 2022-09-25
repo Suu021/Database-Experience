@@ -1,5 +1,4 @@
 -- Schema E-commerce
-drop schema `E-commerce`;
 CREATE SCHEMA IF NOT EXISTS `E-commerce` DEFAULT CHARACTER SET utf8 ;
 USE `E-commerce` ;
 
